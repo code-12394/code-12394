@@ -1,4 +1,4 @@
-# 🤖 Adam M. – AI/ML Engineer & Data Scientist | NLP | Deep Learning | MLOps
+# 🤖   AI/ML Engineer & Data Scientist | NLP | Deep Learning | MLOps
 
 Welcome to my GitHub-hosted resume and project showcase. With 8 years of experience in AI/ML engineering, I specialize in deep learning, NLP, time-series forecasting, and reinforcement learning. I have a strong background in model deployment, cloud platforms (AWS, Azure, GCP), and MLOps tools, enabling me to build scalable AI solutions that drive impactful business outcomes.
 
